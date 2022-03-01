@@ -1,0 +1,9 @@
+Link Download git: https://git-scm.com/downloads
+git clone -> clona repositórios remotos para seu workspace
+git init -> inicia um repositorio git na pasta
+git add -> adiciona arquivo ao solved
+git commit -> envia a alteração ao servidor remoto
+git push -> empurra arquivos ao repositorio
+git pull -> puxa arquivos do repositorio
+
+Link Github: github.com
